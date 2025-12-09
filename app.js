@@ -1,15 +1,21 @@
 // Vul hier je procedures in met de OneDrive-links
 const procedures = [
   {
-    title: "Onderhoudsproces",
-    description: "Standaard Onderhoudsproces.",
-    url: "https://1drv.ms/b/c/1429f39337a31c60/ERPWGm4qz_5Lko58fDV7560BhSfRLgzFQUD5x9kPKlq90g?e=dOvQsc"
+    title: "LOP-RFFS",
+    description: "Afname Level Of Protection.",
+    url: "https://1drv.ms/b/c/1429f39337a31c60/EYfj0coUBp9ApBwqydMrWmoBMcnglSCf2vPc-vl7RAW_YQ?e=LlIa5O"
   },
   {
-    title: "RFFS – Organisatie RFFS AAA",
-    description: "Organisatie RFFS AAA.",
-    url: "https://1drv.ms/b/c/1429f39337a31c60/ETlGUQ6GEWVHlIy0l_MJugUB4GE0C_kxesgSmRFjbu1DXw?e=PxbeDc"
+    title: "RTT-RFFS",
+    description: "Response Time Test.",
+    url: "https://1drv.ms/b/c/1429f39337a31c60/Ee60Y8TYeaRDo_4de6uxcP4B_hiJfF5EqKQUNvgkKDcOqA?e=OHm8Vm"
+  },
+ {
+    title: "HVV",
+    description: "High Visibilty Vests.",
+    url: "https://1drv.ms/b/c/1429f39337a31c60/EdcQp15bl6VBvSWMQFsL4zABNH1J4IIvEU7_kJhg7kUAdw?e=yiO8EY"
   }
+
   // Voeg hier meer items toe
 ];
 
