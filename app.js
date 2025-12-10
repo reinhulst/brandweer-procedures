@@ -35,7 +35,6 @@ const procedures = [
     description: "Rescue and Firefighting information.",
     url: "https://www.boeing.com/commercial/airports/rescue-fire"
   }
-
   // Voeg hier meer items toe
 ];
 
