@@ -33,7 +33,7 @@ const procedures = [
 {
     title: "Boeing",
     description: "Rescue and Firefighting information.",
-    url: "https://www.boeing.com/commercial/airports/rescue-fire"
+    url: "https://1drv.ms/b/c/1429f39337a31c60/ERz5iu_fTz5HrYTJ66-1X2QB0pBHvWKR9R6twEMGEmU2Vw?e=Lgu1hC"
   }
   // Voeg hier meer items toe
 ];
@@ -66,4 +66,5 @@ if ("serviceWorker" in navigator) {
       .catch(err => console.log("SW fout:", err));
   });
 }
+
 
