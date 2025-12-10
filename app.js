@@ -15,11 +15,22 @@ const procedures = [
     description: "High Visibilty Vests.",
     url: "https://1drv.ms/b/c/1429f39337a31c60/EdcQp15bl6VBvSWMQFsL4zABNH1J4IIvEU7_kJhg7kUAdw?e=yiO8EY"
   },
+{
+    title: "Vuurwerk",
+    description: "Optreden bij vuurwerkbranden.",
+    url: "https://1drv.ms/b/c/1429f39337a31c60/IQAUBk4MnFvRRbt3WzQUQ5POAcZhfpN-EeTrGrut6ALMc0c?e=SWvPvm"
+  },
+{
+    title: "Bereikbaarheid",
+    description: "Assessment van bereikbaarheid 1 km gebied.",
+    url: "https://1drv.ms/b/c/1429f39337a31c60/IQDF3k4BiIQ1SZH2Ua-c08ViAXebOcJHUhjRlGeX6QszgDA?e=KVPKAV"
+  },
  {
     title: "Info",
     description: "Infographics.",
     url: "https://1drv.ms/b/c/1429f39337a31c60/ERz5iu_fTz5HrYTJ66-1X2QB0pBHvWKR9R6twEMGEmU2Vw?e=Lgu1hC"
   }
+
   // Voeg hier meer items toe
 ];
 
