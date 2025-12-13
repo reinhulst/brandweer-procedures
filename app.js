@@ -25,7 +25,12 @@ const procedures = [
     description: "Assessment van bereikbaarheid 1 km gebied.",
     url: "https://1drv.ms/b/c/1429f39337a31c60/IQDF3k4BiIQ1SZH2Ua-c08ViAXebOcJHUhjRlGeX6QszgDA?e=KVPKAV"
   },
- {
+{
+    title: "Test link naar website",
+    description: "Telegraaf.",
+    url: "https://telegraaf.nl"
+  }, 
+{
     title: "Info",
     description: "Infographics.",
     url: "https://1drv.ms/b/c/1429f39337a31c60/ERz5iu_fTz5HrYTJ66-1X2QB0pBHvWKR9R6twEMGEmU2Vw?e=Lgu1hC"
