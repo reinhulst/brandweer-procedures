@@ -29,6 +29,11 @@ const procedures = [
     title: "Info",
     description: "Infographics.",
     url: "https://1drv.ms/b/c/1429f39337a31c60/ERz5iu_fTz5HrYTJ66-1X2QB0pBHvWKR9R6twEMGEmU2Vw?e=Lgu1hC"
+  },
+{
+    title: "Test link naar website",
+    description: "Telegraaf.",
+    url: "https://telegraaf.nl"
   }
   // Voeg hier meer items toe
 ];
@@ -44,7 +49,7 @@ function renderList() {
       <h2>${proc.title}</h2>
       <p>${proc.description}</p>
       <p><a href="${proc.url}" target="_blank" rel="noopener noreferrer">
-        Open PDF
+        Openen
       </a></p>
     `;
 
