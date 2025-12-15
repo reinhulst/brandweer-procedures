@@ -31,6 +31,16 @@ const procedures = [
     url: "https://1drv.ms/b/c/1429f39337a31c60/ERz5iu_fTz5HrYTJ66-1X2QB0pBHvWKR9R6twEMGEmU2Vw?e=Lgu1hC"
   },
 {
+    title: "Boeing",
+    description: "Crash charts Boeing.",
+    url: "https://www.boeing.com/commercial/airports/rescue-fire"
+  },
+{
+    title: "Airbus",
+    description: "Crash charts Airbus.",
+    url: "https://www.aircraft.airbus.com/en/customer-care/fleet-wide-care/airport-operations-and-aircraft-characteristics/aircraft-rescue-and-firefighting-charts"
+  },
+{
     title: "AUA",
     description: "Airport Aruba.",
     url: "https://www.airportaruba.com/"
