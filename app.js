@@ -30,7 +30,11 @@ const procedures = [
     description: "Gridmap International Airport Aruba.",
     url: "https://1drv.ms/b/c/1429f39337a31c60/IQDjfuFJkQQqSKH13sP1BydCAXsQv6DbTgu8k3Obllkr3XQ?e=W9WqWU"
   },
-
+{
+    title: "Diagram AAA",
+    description: "Diagram International Airport Aruba.",
+    url: "https://1drv.ms/b/c/1429f39337a31c60/IQCC6MdGGi42Rqb2Ma3-fUN3Aerc0LRUviRSzDKGsWkpKxc?e=9yXkFj"
+  },
 {
     title: "Info",
     description: "Infographics.",
