@@ -51,11 +51,7 @@ const procedures = [
     description: "Airport Aruba.",
     url: "https://www.airportaruba.com/"
   },
-{
-    title: "Map",
-    description: "Test met maptoegang.",
-    url: "https://1drv.ms/f/c/1429f39337a31c60/IgCxi9Gc7rF5QYoQD7rGGf2RAfN3abkPBTh_iKPh_RSVLpQ?e=8uHJ95"
-  },
+
 
   // Voeg hier meer items toe
 ];
