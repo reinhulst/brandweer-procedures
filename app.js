@@ -3,12 +3,12 @@ const procedures = [
 {
     title: "AEM",
     description: "Emergency Manual Airport Aruba.",
-    url: "https://1drv.ms/b/c/1429f39337a31c60/IQA05OyIyOW-Q7cV9s8H89lTAQM4itSIXKLTK_bHGSUVk0s?e=3KFTF6"
+    url: "https://1drv.ms/b/c/1429f39337a31c60/IQA05OyIyOW-Q7cV9s8H89lTAQM4itSIXKLTK_bHGSUVk0s?e=HiXK88"
   },
 {
     title: "Gridmap",
     description: "Gridmap International Airport Aruba.",
-    url: "https://1drv.ms/b/c/1429f39337a31c60/IQDjfuFJkQQqSKH13sP1BydCAXsQv6DbTgu8k3Obllkr3XQ?e=W9WqWU"
+    url: "https://1drv.ms/b/c/1429f39337a31c60/IQDjfuFJkQQqSKH13sP1BydCAXsQv6DbTgu8k3Obllkr3XQ?e=Ez3T7d"
   },
 {
     title: "Diagram AAA",
