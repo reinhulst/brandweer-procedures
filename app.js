@@ -31,6 +31,16 @@ const procedures = [
     url: "https://1drv.ms/b/c/1429f39337a31c60/IQCDLtP1FLvFQbYLPHnXX6oBATI41klWM9rkQs_X9MPtfiw?e=DLiecZ"
   },  
 {
+    title: "CT15 OM",
+    description: "Operation Manual CT15.",
+    url: "https://1drv.ms/b/c/1429f39337a31c60/IQBc1sL-e4QvQrQN515FSYe5ASL-_OsZJwhETUV2b_z1TVg?e=VXk3Mo"
+  },  
+{
+    title: "R2 & R3 OM",
+    description: "Operation Manual R2 & R3.",
+    url: "https://1drv.ms/b/c/1429f39337a31c60/IQD5QiSO5JzfTYNULM7l0wxnAe5lMjh_zLnk5wme5W0joWc?e=Lk8wnC"
+  },
+{
     title: "LOP-RFFS",
     description: "Afname Level Of Protection.",
     url: "https://1drv.ms/b/c/1429f39337a31c60/EYfj0coUBp9ApBwqydMrWmoBMcnglSCf2vPc-vl7RAW_YQ?e=LlIa5O"
